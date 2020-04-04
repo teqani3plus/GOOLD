@@ -1,11 +1,7 @@
 {"version_code":453193,"content":"
-<p> تحديث|</p>
+<p>رســــالة دعــم</p>
 
-
-<li>تحديث جديد متاح</li>
-
-
-<li> New Update Available</li>
+<li>أدعمني بدخول الى الموقـــع والضغط على الاعلانات  وشكرا لك اضغط على  كلمة فتح تحياتي لكم جميعا علاء اسماعيل</li>
 
 ","url":"https://www.free-netsyra.com/2020/02/watsabplusarab.html"
 }
