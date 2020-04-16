@@ -1,5 +1,5 @@
-{"version_code":,"content":"
-<p>تحديث جديد للاصدار5.10</p>
+{"version_code":999999999,"content":"
+<p>تحديث جديد 8.10</p>
 <p>• تم اصلاح الثيمات بشكل كامل </p>
 <p>• تم اضافة كاسر بروكسي لدعم الاتصال في الدول المحظور بها الاتصال </p>
 <p>• اضافة خيار لتغيير واجهة التطبيق </p>
@@ -23,5 +23,5 @@
  
  </p>شكرا لكم</p>
  
- ","url":"https://www.free-netsyra.com/2019/07/whatsapp.pluss.html"
+ ","url":"https://www.free-netsyra.com/2020/02/watsabplusarab.html"
 }
