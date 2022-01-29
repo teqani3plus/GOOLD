@@ -1,24 +1,5 @@
+سوف تتوقف النسخة لديك اذا لم تحدث وسوفوا تفقد محادثاتك كلها
+قم بتحديث الان
 
-يجب عليك التحديث هذا التحديث اجباري لكي لا تفقد النسخة
-
-
-
-🔷 حصريا الرسائل الجماعية للمجموعات والمحادثات اصبحت تدعم ارسال الصور والفيديو
-🔺 إصلاح مشكلة اظهار الدردشات في الاعلى
-🔺 إصلاح اظهار الصورة مرة واحدة
-🔺 إصلاح تغيير لون الاسم في الحالة وشاشة الاتصال
-🔺 إصلاح ايقونة الاتصال لا تظهر في الشاشة البيضاء
-🔺 إصلاح مشكلة الانهيار بعد تفعيل الرقم وكتابة الاسم
-🔸 مزيد من الإصلاحات والتحسينات الأخرى
-
-You must update this update is mandatory in order not to lose the copy
-
-
-
-🔷 Exclusively group messages for groups and conversations now support sending photos and videos
-🔺 Fixed the problem of showing chats at the top
-🔺 fix showing image once
-🔺Fix name color change in status and call screen
-🔺 Fix the call icon not appearing on the white screen
-🔺 Fixing the problem of the collapse after activating the number and writing the name
-🔸 More other fixes and improvements
+Your copy will stop if it does not happen and you will lose all your chats
+Update now
