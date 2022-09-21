@@ -1,9 +1,9 @@
-مالجديد في الاصدارV 14.00
+مالجديد في الاصدارV v10.45
 
 🔺 إصلاح مشكلة حماية جوجل بلاي وظهور اشعار بأن التطبيق ضار 
 ✅ أصلاح انهيارات التطبيق بشكل كامل
 ⚠️ اصلاح  التطبيق يوجد بة فايروس
-What's New in Version V 14.00
+What's New in Version V 10.45
 
 🔺 Fix the problem of Google Play protection and the appearance of a notification that the application is malicious
 ✅ Completely fix app crashes
