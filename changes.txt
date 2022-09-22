@@ -1,10 +1,6 @@
-مالجديد في الاصدارV v10.45
+مالجديد في الاصدارV v10.46
 
-🔺 إصلاح مشكلة حماية جوجل بلاي وظهور اشعار بأن التطبيق ضار 
-✅ أصلاح انهيارات التطبيق بشكل كامل
-⚠️ اصلاح  التطبيق يوجد بة فايروس
-What's New in Version V 10.45
+الذي واجه مشكلة في نسخ ابو عرب 10.45 يرجى تحميل التحديث الاصلاحي 10.46 مجددا من الموقع وعذرا على هذا الخطأ
 
-🔺 Fix the problem of Google Play protection and the appearance of a notification that the application is malicious
-✅ Completely fix app crashes
-⚠️ Fix the application, there is a virus
+
+Anyone had a issues with version 10.45 please Re-download the version 10.46 again from the site and sorry for this
